@@ -1,0 +1,14 @@
+{
+    "variants":
+    {
+        "check_decay=true,decayable=true,variant=copper": { "model": "httutor:leaves_copper" },
+        "check_decay=true,decayable=false,variant=copper": { "model": "httutor:leaves_copper" },
+        "check_decay=false,decayable=true,variant=copper": { "model": "httutor:leaves_copper" },
+        "check_decay=false,decayable=false,variant=copper": { "model": "httutor:leaves_copper" },
+        
+        "check_decay=true,decayable=true,variant=aluminum": { "model": "httutor:leaves_aluminum" },
+        "check_decay=true,decayable=false,variant=aluminum": { "model": "httutor:leaves_aluminum" },
+        "check_decay=false,decayable=true,variant=aluminum": { "model": "httutor:leaves_aluminum" },
+        "check_decay=false,decayable=false,variant=aluminum": { "model": "httutor:leaves_aluminum" }
+    }
+}

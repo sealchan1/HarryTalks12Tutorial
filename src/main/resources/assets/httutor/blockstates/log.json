@@ -1,0 +1,15 @@
+{
+    "variants":
+    {
+        "axis=y,variant=copper": { "model": "httutor:log_copper" },
+        "axis=z,variant=copper": { "model": "httutor:log_copper", "x": 90 },
+        "axis=x,variant=copper": { "model": "httutor:log_copper", "x": 90, "y": 90 },
+        "axis=none,variant=copper": { "model": "httutor:log_copper" },
+        
+        "axis=y,variant=aluminum": { "model": "httutor:log_aluminum" },
+        "axis=z,variant=aluminum": { "model": "httutor:log_aluminum", "x": 90 },
+        "axis=x,variant=aluminum": { "model": "httutor:log_aluminum", "x": 90, "y": 90 },
+        "axis=none,variant=aluminum": { "model": "httutor:log_aluminum" }
+    }
+}
+        

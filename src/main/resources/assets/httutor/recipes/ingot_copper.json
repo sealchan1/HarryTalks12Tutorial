@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "B"
+    ],
+    "key":
+    {
+        "B":
+        {
+            "item": "httutor:block_copper"
+        }
+    },
+    "result":
+    {
+        "item": "httutor:ingot_copper",
+        "count": 9
+    }
+}

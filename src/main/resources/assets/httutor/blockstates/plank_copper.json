@@ -1,0 +1,9 @@
+{
+    "variants": 
+    {
+        "normal": 
+        { 
+            "model": "httutor:plank_copper" 
+        }
+    }
+}

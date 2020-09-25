@@ -1,0 +1,7 @@
+{
+    "variants":
+    {
+        "variant=copper": { "model": "httutor:planks_copper" },
+        "variant=aluminum": { "model": "httutor:planks_aluminum" }
+    }
+}

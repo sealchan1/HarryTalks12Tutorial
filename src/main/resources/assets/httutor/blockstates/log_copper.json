@@ -1,0 +1,10 @@
+{
+    "variants":
+    {
+        "axis=y": { "model": "httutor:log_copper" },
+        "axis=z": { "model": "httutor:log_copper", "x": 90 },
+        "axis=x": { "model": "httutor:log_copper", "x": 90, "y": 90 },
+        "axis=none": { "model": "httutor:log_copper" }
+    }
+}
+        

@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_column",
+    "textures":
+    {
+        "end": "httutor:blocks/log_copper_top",
+        "side": "httutor:blocks/log_copper"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "variants":
+    {
+        "stage=0": { "model": "httutor:sapling_copper" },
+        "stage=1": { "model": "httutor:sapling_copper" }
+    }
+}
+        

@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    
+    "ingredients":
+    [
+        {
+            "item": "httutor:rice"
+        },
+
+        {
+            "item": "httutor:rice"
+        },
+        
+        {
+            "item": "httutor:rice"
+        },
+ 
+        {
+            "item": "minecraft:bowl"
+        }
+    ],
+    
+    "result":
+    {
+        "item": "httutor:rice_bowl",
+        "count": 1
+    }
+}

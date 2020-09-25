@@ -1,0 +1,11 @@
+{
+    "variants":
+    {
+        "stage=0,variant=copper": { "model": "httutor:sapling_copper" },
+        "stage=1,variant=copper": { "model": "httutor:sapling_copper" },
+        
+        "stage=0,variant=aluminum": { "model": "httutor:sapling_aluminum" },
+        "stage=1,variant=aluminum": { "model": "httutor:sapling_aluminum" }
+    }
+}
+        

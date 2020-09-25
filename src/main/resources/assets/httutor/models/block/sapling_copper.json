@@ -1,0 +1,7 @@
+{
+    "parent": "block/cross",
+    "textures":
+    {
+        "cross": "httutor:blocks/sapling_copper"
+    }
+}

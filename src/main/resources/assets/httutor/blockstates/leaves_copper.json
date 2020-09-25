@@ -1,0 +1,9 @@
+{
+    "variants":
+    {
+        "check_decay=true,decayable=true": { "model": "httutor:leaves_copper" },
+        "check_decay=true,decayable=false": { "model": "httutor:leaves_copper" },
+        "check_decay=false,decayable=true": { "model": "httutor:leaves_copper" },
+        "check_decay=false,decayable=false": { "model": "httutor:leaves_copper" }
+    }
+}
