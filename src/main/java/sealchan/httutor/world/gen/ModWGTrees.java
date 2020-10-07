@@ -15,6 +15,7 @@ import net.minecraft.world.gen.IChunkGenerator;
 import net.minecraft.world.gen.feature.WorldGenerator;
 import net.minecraftforge.fml.common.IWorldGenerator;
 import scala.actors.threadpool.Arrays;
+import sealchan.httutor.world.biome.BiomeCopper;
 
 public class ModWGTrees implements IWorldGenerator
 {
@@ -29,7 +30,7 @@ public class ModWGTrees implements IWorldGenerator
 			case 1:
 				break;
 			case 0:
-				runGenerator(COPPER, world, random, chunkX, chunkZ, 5, Blocks.GRASS, BiomeForest.class);
+				runGenerator(COPPER, world, random, chunkX, chunkZ, 5, Blocks.GRASS, BiomeCopper.class);
 				break;
 			case -1:
 		}
