@@ -7,6 +7,7 @@ import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.fml.common.Mod.EventBusSubscriber;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import net.minecraftforge.fml.common.registry.GameRegistry;
+import sealchan.httutor.init.BiomeInit;
 import sealchan.httutor.init.BlockInit;
 import sealchan.httutor.init.ItemInit;
 import sealchan.httutor.util.interfaces.IHasModel;
@@ -54,5 +55,7 @@ public class RegistryHandler
 		//GameRegistry.registerWorldGenerator(new WorldGenCustomOres(), 0);
 		GameRegistry.registerWorldGenerator(new ModWorldGen(), 0);
 		GameRegistry.registerWorldGenerator(new ModWGTrees(), 0);
+		
+		BiomeInit.registerBiomes();
 	}
 }
